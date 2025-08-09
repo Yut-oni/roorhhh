@@ -6,7 +6,7 @@ import os
 import tempfile
 import re
 
-TOKEN = '8413949191:AAF9E7sRqY-rVp4HMh5aSWloMEiXtOqDziI'
+TOKEN = 'pontuapi'
 ID_GRUPO = -1002434065970  # Cambia al ID de tu grupo
 
 PREGUNTA_PALABRA, PREGUNTA_DESCARGA = range(2)
